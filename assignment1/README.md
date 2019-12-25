@@ -1,4 +1,4 @@
-# Frozon lake
+# Frozen Lake
 
 ```
 SFFF
