@@ -1,5 +1,11 @@
 # Frozen Lake
 
+### Run
+```
+python vi_and_pi.py
+```
+
+### Results
 ```
 SFFF
 FHFH
